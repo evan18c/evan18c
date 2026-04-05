@@ -21,3 +21,6 @@ A statically typed procedural language written in C.
 
 ### [Thonk](https://github.com/evan18c/thonk)
 A silly thinking emoji generator.
+
+### [Lambda](https://github.com/evan18c/lambda)
+A Lambda-Calculus interpreter written in Python.
