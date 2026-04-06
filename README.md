@@ -1,6 +1,8 @@
 # Hey, I'm Evan! 👋
 I'm an independent software developer who loves Systems Programming.
 
+[![SkillIcons](https://skillicons.dev/icons?i=py,c,cpp,java,php,mysql,cmake,github,vscode)](https://skillicons.dev)
+
 ## Repositories
 Here are some of my important repositories:
 
