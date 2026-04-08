@@ -1,5 +1,6 @@
 # Hey, I'm Evan! 👋
-I'm an independent software developer who loves Systems Programming.
+I'm an independent software developer with 10+ years of experience.<br>
+I absolutely love Systems Programming and Mathematics!
 
 [![SkillIcons](https://skillicons.dev/icons?i=py,c,cpp,java,php,mysql,cmake,github,vscode)](https://skillicons.dev)
 
