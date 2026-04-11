@@ -27,3 +27,6 @@ A silly thinking emoji generator.
 
 ### [Lambda](https://github.com/evan18c/lambda)
 A Lambda-Calculus interpreter written in Python.
+
+### [Tic-Tac-Toe](https://github.com/evan18c/tic-tac-toe)
+An online multiplayer game of Tic-Tac-Toe.
