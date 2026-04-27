@@ -7,6 +7,9 @@ I absolutely love Systems Programming and Mathematics!
 ## Repositories
 Here are some of my important repositories:
 
+### [xvme](https://github.com/evan18c/xvme)
+An original Xbox emulator.
+
 ### [py2js](https://github.com/evan18c/pythontojs)
 A tool to compile Python code directly into JavaScript code.
 
